@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2571" height="5313" viewBox="0 0 2571 5313">
+    <defs>
+        <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#dc517f" />
+            <stop offset="1" stop-color="#e58e2f" />
+        </linearGradient>
+    </defs>
+    <g id="Group_29" data-name="Group 29" transform="translate(-18703 -2103)">
+        <path id="Subtraction_2" data-name="Subtraction 2" d="M302.5,605a306.8,306.8,0,0,1-36.263-2.151,302.548,302.548,0,0,1-34.992-6.289H373.756a302.575,302.575,0,0,1-34.992,6.289A306.8,306.8,0,0,1,302.5,605Zm127.554-28.128H174.946c-7.351-3.423-14.663-7.2-21.731-11.214h298.57c-7.071,4.02-14.383,7.793-21.731,11.214ZM481.4,546.453H123.6a305.132,305.132,0,0,1-25-20.5H506.4a305.193,305.193,0,0,1-25,20.5Zm48.988-45.017H74.612c-6.651-7.614-12.991-15.648-18.843-23.881H549.232c-5.854,8.235-12.194,16.269-18.843,23.881Zm36.735-52.259H37.877c-4.31-7.76-8.318-15.794-11.914-23.881H579.038c-3.6,8.09-7.606,16.124-11.914,23.881ZM589.815,397.4H15.185a301.383,301.383,0,0,1-8.92-33.356h592.47a301.421,301.421,0,0,1-8.92,33.356Zm14.007-68.012H1.179C.4,320.51,0,311.464,0,302.5c0-6.386.2-12.841.6-19.187H604.4c.4,6.348.6,12.8.6,19.187,0,8.965-.4,18.012-1.179,26.888Zm-5.293-89.423H6.471a300.021,300.021,0,0,1,18.581-58.195h554.9a300.033,300.033,0,0,1,18.581,58.195ZM556.052,137.459H48.947A301.76,301.76,0,0,1,263.337,2.512c6.41-.829,12.941-1.461,19.413-1.878C289.282.213,295.927,0,302.5,0s13.218.213,19.751.635c6.471.417,13,1.049,19.413,1.878A302.977,302.977,0,0,1,556.053,137.459h0Z" transform="translate(19684 2279)" fill="url(#linear-gradient)" />
+        <text id="THE_80s_STRIKES_BACK" data-name="THE 80s STRIKES BACK" transform="translate(18718 2118)" fill="#f3ea55" stroke="#000" stroke-linejoin="round" stroke-width="15" font-size="320" font-family="Futura-CondensedExtraBold, Futura" font-weight="800">
+            <tspan x="200" y="321">THE 80s STRIKES </tspan>
+            <tspan x="900" y="737">BACK</tspan>
+        </text>
+        <rect id="Rectangle_110" data-name="Rectangle 110" width="1350" height="710" transform="translate(18810 3042)" fill="#fd48c6" />
+        <rect id="Rectangle_100" data-name="Rectangle 100" width="1352" height="710" transform="translate(19677 3953)" fill="#35d1fd" />
+        <rect id="Rectangle_95" data-name="Rectangle 95" width="1353" height="709" transform="translate(18817 4865)" fill="#f3ea55" />
+        <rect id="Rectangle_96" data-name="Rectangle 96" width="1353" height="709" transform="translate(18817 6707)" fill="#637ff5" />
+        <rect id="Rectangle_97" data-name="Rectangle 97" width="1352" height="710" transform="translate(19677 5786)" fill="#fd3f3f" />
+        <g id="Rectangle_111" data-name="Rectangle 111" transform="translate(18875 2991)" fill="none" stroke="#000" stroke-width="30">
+            <rect width="1350" height="709" stroke="none" />
+            <rect x="15" y="15" width="1320" height="679" fill="none" />
+        </g>
+        <g id="Rectangle_101" data-name="Rectangle 101" transform="translate(19744 3901)" fill="none" stroke="#000" stroke-width="30">
+            <rect width="1351" height="710" stroke="none" />
+            <rect x="15" y="15" width="1321" height="680" fill="none" />
+        </g>
+        <g id="Rectangle_98" data-name="Rectangle 98" transform="translate(18884 4813)" fill="none" stroke="#000" stroke-width="30">
+            <rect width="1351" height="710" stroke="none" />
+            <rect x="15" y="15" width="1321" height="680" fill="none" />
+        </g>
+        <g id="Rectangle_94" data-name="Rectangle 94" transform="translate(18884 6655)" fill="none" stroke="#000" stroke-width="30">
+            <rect width="1351" height="709" stroke="none" />
+            <rect x="15" y="15" width="1321" height="679" fill="none" />
+        </g>
+        <g id="Rectangle_99" data-name="Rectangle 99" transform="translate(19744 5735)" fill="none" stroke="#000" stroke-width="30">
+            <rect width="1351" height="709" stroke="none" />
+            <rect x="15" y="15" width="1321" height="679" fill="none" />
+        </g>
+        <text id="Nerve_Growth_Factor_Discovery" data-name="Nerve Growth Factor Discovery" transform="translate(18973 3152)" font-size="70" font-family="Futura-Medium, Futura" font-weight="500">
+            <tspan x="0" y="73">Nerve Growth Factor Discovery</tspan>
+        </text>
+        <text id="BBC_BASIC_Language_Creation" data-name="BBC BASIC Language Creation" transform="translate(19853 4064)" font-size="70" font-family="Futura-Medium, Futura" font-weight="500">
+            <tspan x="0" y="73">BBC BASIC Language Creation</tspan>
+        </text>
+        <text id="The_World_s_First_Female_Elected_President" data-name="The World’s First Female Elected President" transform="translate(18993 4949)" font-size="70" font-family="Futura-Medium, Futura" font-weight="500">
+            <tspan x="0" y="73">The World’s First Female Elected </tspan>
+            <tspan x="0" y="166">President</tspan>
+        </text>
+        <text id="Blissymbol_Printer_Invention" data-name="Blissymbol Printer Invention" transform="translate(18993 6849)" font-size="70" font-family="Futura-Medium, Futura" font-weight="500">
+            <tspan x="0" y="73">Blissymbol Printer Invention</tspan>
+        </text>
+        <text id="Long-Life_Space_Station_Batteries" data-name="Long-Life Space Station Batteries" transform="translate(19853 5870)" font-size="70" font-family="Futura-Medium, Futura" font-weight="500">
+            <tspan x="0" y="73">Long-Life Space Station Batteries</tspan>
+        </text>
+        <text id="Rita_Levi-Montalcini_and_colleague_Stanley_Cohen_discovered_nerve_growth_factor_a_neurotrophic_factor_and_neuropeptide_primarily_involved_in_the_regulation_of_growth_maintenance_proliferation_and_survival_of_certain_target_neurons._This_discovery_was_r" data-name="Rita Levi-Montalcini and colleague Stanley Cohen discovered nerve growth factor, a neurotrophic factor and neuropeptide primarily involved in the regulation of growth, maintenance, proliferation, and survival of certain target neurons. This discovery was r" transform="translate(18973 3302)" font-size="40" font-family="PTSans-Regular, PT Sans">
+            <tspan x="0" y="36">Rita Levi-Montalcini and colleague Stanley Cohen discovered nerve </tspan>
+            <tspan x="0" y="88">growth factor, a neurotrophic factor and neuropeptide primarily </tspan>
+            <tspan x="0" y="140">involved in the regulation of growth, maintenance, proliferation, and </tspan>
+            <tspan x="0" y="192">survival of certain target neurons. This discovery was recognized with </tspan>
+            <tspan x="0" y="244">the Nobel Prize in Physiology or Medicine in 1986.</tspan>
+        </text>
+        <text id="BBC_Basic_written_by_Sohpie_Wilson_is_a_version_of_the_BASIC_programming_language_released_in_1981_as_the_native_programming_language_for_the_BBC_Micro_home_personal_computer_providing_a_standardized_language_for_a_UK_computer_literacy_project_of_the_BB" data-name="BBC Basic, written by Sohpie Wilson, is a version of the BASIC programming language released in 1981 as the native programming language for the BBC Micro home/personal computer, providing a standardized language for a UK computer literacy project of the BB" transform="translate(19853 4190)" font-size="40" font-family="PTSans-Regular, PT Sans">
+            <tspan x="0" y="36">BBC Basic, written by Sohpie Wilson, is a version of the BASIC </tspan>
+            <tspan x="0" y="88">programming language released in 1981 as the native </tspan>
+            <tspan x="0" y="140">programming language for the BBC Micro home/personal </tspan>
+            <tspan x="0" y="192">computer, providing a standardized language for a UK computer </tspan>
+            <tspan x="0" y="244">literacy project of the BBC. It gained a reputation of uniqueness by </tspan>
+            <tspan x="0" y="296">including an inline assembler, allowing users to write assembly </tspan>
+            <tspan x="0" y="348">language programs.</tspan>
+        </text>
+        <text id="Vigdis_Finnbogadottir_was_inaugurated_in_1980_as_the_first_female_elected_president_in_any_nation._She_is_also_credited_as_the_longest-serving_elected_female_head_of_state_serving_Iceland_16_years._Some_argue_that_her_presidency_contributed_to_more_pro-wo" data-name="Vigdis Finnbogadottir was inaugurated in 1980 as the first female elected president in any nation. She is also credited as the longest-serving elected female head of state, serving Iceland 16 years. Some argue that her presidency contributed to more pro-wo" transform="translate(18993 5169)" font-size="40" font-family="PTSans-Regular, PT Sans">
+            <tspan x="0" y="36">Vigdis Finnbogadottir was inaugurated in 1980 as the first female </tspan>
+            <tspan x="0" y="88">elected president in any nation. She is also credited as the </tspan>
+            <tspan x="0" y="140">longest-serving elected female head of state, serving Iceland 16 </tspan>
+            <tspan x="0" y="192">years. Some argue that her presidency contributed to more pro-</tspan>
+            <tspan x="0" y="244">women and family-friendly legislation. </tspan>
+        </text>
+        <text id="In_1984_at_only_12_years_old_Rachel_Zimmerman_invented_software_that_allows_people_with_speech_disabilities_to_communicate_non-verbally_by_using_symbols_on_a_touchpad_that_are_then_translated_to_written_language." data-name="In 1984, at only 12 years old, Rachel Zimmerman invented software that allows people with speech disabilities to communicate non-verbally by using symbols on a touchpad that are then translated to written language." transform="translate(18993 6985)" font-size="40" font-family="PTSans-Regular, PT Sans">
+            <tspan x="0" y="36">In 1984, at only 12 years old, Rachel Zimmerman invented </tspan>
+            <tspan x="0" y="88">software that allows people with speech disabilities to </tspan>
+            <tspan x="0" y="140">communicate non-verbally by using symbols on a touchpad that </tspan>
+            <tspan x="0" y="192">are then translated to written language.</tspan>
+        </text>
+        <text id="The_International_Space_Station_relies_on_solar_power_but_for_a_third_of_its_rotation_the_earth_blocks_the_sun_s_rays._In_1980_Olga_Gonzalez-Sanabria_created_long-life_nickel_hydrogen_batteries_to_keep_the_International_Space_Station_powered_up_during_t" data-name="The International Space Station relies on solar power, but for a third of its rotation, the earth blocks the sun’s rays. In 1980, Olga Gonzalez-Sanabria created long-life nickel hydrogen batteries to keep the International Space Station powered up during t" transform="translate(19853 6017)" font-size="40" font-family="PTSans-Regular, PT Sans">
+            <tspan x="0" y="36">The International Space Station relies on solar power, but for a </tspan>
+            <tspan x="0" y="88">third of its rotation, the earth blocks the sun’s rays. In 1980, </tspan>
+            <tspan x="0" y="140">Olga Gonzalez-Sanabria created long-life nickel hydrogen </tspan>
+            <tspan x="0" y="192">batteries to keep the International Space Station powered up </tspan>
+            <tspan x="0" y="244">during that dark portion of its rotation.</tspan>
+        </text>
+        <g id="Ellipse_216" data-name="Ellipse 216" transform="translate(20318 4874)" fill="none" stroke="#ff5f5f" stroke-width="20">
+            <circle cx="105.5" cy="105.5" r="105.5" stroke="none" />
+            <circle cx="105.5" cy="105.5" r="95.5" fill="none" />
+        </g>
+        <g id="Ellipse_217" data-name="Ellipse 217" transform="translate(19413 6141)" fill="none" stroke="#fd48c6" stroke-width="20">
+            <circle cx="63" cy="63" r="63" stroke="none" />
+            <circle cx="63" cy="63" r="53" fill="none" />
+        </g>
+        <rect id="Rectangle_112" data-name="Rectangle 112" width="157" height="157" transform="translate(19320.5 4051.065) rotate(45)" fill="#f3ea55" />
+        <g id="Polygon_6" data-name="Polygon 6" transform="translate(20601.455 3475.347) rotate(-45)" fill="none">
+            <path d="M136,0,272,239H0Z" stroke="none" />
+            <path d="M 136 40.43902587890625 L 34.39207458496094 219 L 237.60791015625 219 L 136 40.43902587890625 M 136 0 L 272 239 L 0 239 L 136 0 Z" stroke="none" fill="#cc48fd" />
+        </g>
+        <line id="Line_9" data-name="Line 9" x1="132" y1="87" transform="translate(18931.5 5860.5)" fill="none" stroke="#55d5f3" stroke-width="20" />
+        <line id="Line_10" data-name="Line 10" y1="167" x2="75" transform="translate(19053.5 5786.5)" fill="none" stroke="#55d5f3" stroke-width="20" />
+        <circle id="Ellipse_218" data-name="Ellipse 218" cx="92" cy="92" r="92" transform="translate(20576 6849)" fill="#7355f3" />
+    </g>
+</svg>
